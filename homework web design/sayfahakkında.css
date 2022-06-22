@@ -1,0 +1,74 @@
+body,h1,ul,li,p{
+    margin: 0;
+    padding: 0;
+	
+}
+html, body {   
+	 height: 100%;    
+	  font-size:80.5%;     
+	  font-family:Arial, Helvetica, sans-serif; 
+	}
+#sayfa{    
+	 min-height: 100%;    
+	height: auto !important;  
+	 height: 100%;    
+		margin: 0 auto -4em;    
+		background: #3f888831;
+		 }
+#ust{
+	width:auto;
+	height: 120px;
+	background: #9F1C1E;
+}
+#menu{
+    float: left;
+    list-style: none;
+    margin-top: 2.5em;
+}
+#menu li{
+    float: left;
+}
+#menu li a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+#baslik{
+	float: left;
+	margin-left: 30px;
+	margin-top: 45px;
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+}
+
+#orta-sol{
+	width: 1520px;
+	height: 570px;
+	margin: 5px 0px 0px 0px;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	background: #070000;
+	text-align: justify;
+	background-size: 1620px 570px;
+	background-repeat: no-repeat;
+}
+#alt{
+	width: auto;
+	background:#9F1C1E;
+	text-align: center;
+	margin-top: 5px;s
+	color: rgb(255, 255, 255);
+}
+.temizle{
+	clear: both;
+}
+.ust-sag{
+	position: absolute;
+	left:92%;
+}
+
+
+
